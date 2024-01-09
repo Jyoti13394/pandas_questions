@@ -1,0 +1,9 @@
+﻿emp_id,emp_name,dept_id,salary,manager_id,emp_age
+100,Jyoti,23,100000,101,29
+200,Ritesh,23,200000,100,27
+300,Hrithik,24,300000,200,23
+400,Aman,24,400000,200,21
+500,Roshan,25,500000,300,19
+600,Kshitij,25,600000,300,16
+700,Sonam,26,700000,300,13
+800,Anushmita,28,800000,400,2
